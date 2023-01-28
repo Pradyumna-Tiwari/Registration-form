@@ -1,4 +1,6 @@
-Registration_form by c#
+/* It is a simple code for a registration form ,in which we had used the bootstrap functionalities. For better result, before using this code you should add the bootstrap's CDNs or import bootstrap.
+Thank You.  
+*/
 
 <div class="row">
 <div class="col-sm-3"></div>
